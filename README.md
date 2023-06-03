@@ -7,6 +7,5 @@
       <img src="https://img.shields.io/badge/johnk@linux.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
     </a>
     <br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jtmkrueger&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </p>
 </div>
